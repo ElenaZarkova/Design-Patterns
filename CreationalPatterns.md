@@ -44,7 +44,7 @@
     * A family of products is designed to work only all together.
     * The creation of a library of products is needed, for which is relevant only the interface, not the implementation.
 * Consequences
-    * Provides flexible mechanism for replacement of different sets
+    * Provides flexible mechanism for replacement of different sets
     * Isolates concrete classes.
     * Promotes consistency among products. 
 * Related patterns - Simple Factory, Strategy
